@@ -1,0 +1,14 @@
+more_bm,more_score,coef,more_th,changes,result
+higher,smaller,plus,less,cr_yes,yes
+higher,bigger,plus,more,cr_no,yes
+higher,bigger,minus,less,cr_yes,yes
+higher,smaller,minus,less,cr_no,no
+equal,bigger,minus,more,cr_no,yes
+higher,bigger,minus,less,cr_no,yes
+higher,smaller,plus,more,cr_no,yes
+lower,smaller,minus,less,cr_no,no
+equal,smaller,plus,more,cr_yes,yes
+equal,smaller,plus,less,cr_no,no
+higher,bigger,plus,less,cr_no,yes
+lower,bigger,minus,less,cr_no,no
+higher,bigger,plus,less,cr_no,yes

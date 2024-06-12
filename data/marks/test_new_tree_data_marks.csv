@@ -1,0 +1,14 @@
+math,physics,chemestry,additional,attendance,mark
+A,A,A,5,at_yes,yes
+C,C,A,3,at_yes,no
+D,A,D,1,at_yes,no
+B,C,A,6,at_yes,yes
+C,A,A,5,at_yes,yes
+A,C,A,6,at_yes,yes
+B,B,B,4,at_yes,yes
+C,C,C,5,at_no,no
+C,D,A,3,at_yes,no
+D,C,A,1,at_yes,no
+D,C,B,2,at_no,no
+A,D,C,5,at_no,no
+A,D,A,6,at_yes,yes
